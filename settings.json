@@ -1,12 +1,12 @@
 {
   "name": "Bubba",
   "bot-account": {
-    "username": "USFbot",
+    "username": "BearBearBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "usfbulls.play.hosting",
+    "ip": "bearbear.play.hosting",
     "port": 25565,
     "version": "",
     "try-creative": false
